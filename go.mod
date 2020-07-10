@@ -1,3 +1,3 @@
-module fun
+module int-algorithms
 
 go 1.14
